@@ -1,2 +1,4 @@
-include ':app'
 rootProject.name='Transp-Os'
+include ':app'
+include ':jfugue-5.0.9-src'
+
